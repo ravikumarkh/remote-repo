@@ -2,3 +2,4 @@ new file5
 changes3
 Second line
 This is the new line added
+changes made
